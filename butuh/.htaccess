@@ -1,0 +1,4 @@
+# security file htaccess
+order allow,deny
+deny from all
+ErrorDocument 403 /lempar.php
